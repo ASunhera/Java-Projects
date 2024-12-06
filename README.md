@@ -14,6 +14,12 @@ This repository contains a RESTful API for managing a list of courses, allowing 
 - In-memory database for quick setup and testing.
 
 ---
+## Screenshot
+
+![File Structure](images/File-Structure.png)
+![Running Project](images/Running-Project.png)
+![Postman Requests](images/Postman-Requests.png)
+
 
 ## Prerequisites
 
