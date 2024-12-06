@@ -50,7 +50,7 @@ cd Java-REST-API
    ```
 3. The application will start at:
    ```
-   http://localhost:8080/api/courses
+   http://localhost:8080/courses
    ```
 
 ---
@@ -58,7 +58,7 @@ cd Java-REST-API
 ## API Endpoints
 
 ### Base URL
-`http://localhost:8080/api/courses`
+`http://localhost:8080/courses`
 
 | HTTP Method | Endpoint         | Description                    | Request Body        |
 |-------------|------------------|--------------------------------|---------------------|
@@ -86,4 +86,8 @@ Here is a sample JSON request body for creating or updating a course:
 
 ## Author
 Arun Sunhera
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/arunsunhera)
+
 
